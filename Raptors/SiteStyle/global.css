@@ -15,6 +15,8 @@
 background-color: #FFFFFF;
 color: black;
 margin: 25px;
+background-image: url("background.jpg");
+background-repeat: repeat-y;
 }
 
 p {
@@ -60,3 +62,14 @@ a:hover {
 a:active {
    color: #80B939;
 }
+
+/* Containers */ 
+#sidebar {
+color: #889A9C;
+font-size: small;
+font-variant: small-caps;
+line-height: 1.2;
+padding-right: 10px;
+border-right: #889A9C 1px solid;
+width: 200px;
+} 
