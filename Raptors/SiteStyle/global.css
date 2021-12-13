@@ -78,3 +78,26 @@ margin-left: 25px;
 clear: both;
 margin: 0px;
 }
+/* Banner */
+#banner {
+text-align: left;
+margin: 0px;
+padding: 0px;
+height: 171px;
+background-color: #FDED52;
+}
+#banner h1{
+color: #43743D;
+margin: 0;
+font-size: 70px;
+padding-left: 25px;
+padding-top: 25px;
+}
+#banner h2{
+color: #000000;
+border: 0;
+font-size: 12px;
+font-variant: small-caps;
+font-weight: bold;
+padding-left: 25px;
+}
