@@ -20,6 +20,9 @@ background-repeat: repeat-y;
 p {
    padding-bottom: 5px;
 }
+li {
+   list-style-type: circle;
+}
  h1, h2, h3 {
     font-family: "Times New Roman";
     font-weight:bold;
