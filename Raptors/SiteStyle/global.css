@@ -105,3 +105,36 @@ font-variant: small-caps;
 font-weight: bold;
 padding-left: 25px;
 }
+/* Navigation Bar */
+#navigation ul {
+margin: 0px;
+padding: 0px;
+font-size: 14px;
+font-variant: normal;
+}
+#navigation li {
+list-style-type: none;
+font-weight: bold;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+#navigation a {
+color: #43743D;
+text-decoration: none;
+cursor: pointer;
+border-left-width: 20px;
+border-left-style: solid;
+border-left-color: #43743D;
+padding-left: 5px;
+}
+#navigation a:hover {
+color: #AD9676;
+text-decoration: none;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #AD9676;
+border-left-width: 1px;
+border-left-style: solid;
+border-left-color: #AD9676;
+padding-left: 5px;
+}
