@@ -81,6 +81,11 @@ margin-left: 25px;
 #footer {
 clear: both;
 margin: 0px;
+font-size: small;
+text-align: center;
+color: #889A9C;
+background-color: #FDED52;
+padding: 10px;
 }
 /* Banner */
 #banner {
@@ -89,6 +94,9 @@ margin: 0px;
 padding: 0px;
 height: 171px;
 background-color: #FDED52;
+background-image: url("banner.jpg");
+background-repeat: no-repeat;
+background-position: top right;
 }
 #banner h1{
 color: #43743D;
